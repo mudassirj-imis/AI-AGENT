@@ -1,0 +1,6 @@
+langchain
+langchain-groq
+python-dotenv
+playwright
+opencv-python
+numpy
